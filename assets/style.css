@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,700;1,400&display=swap');
+
+.app-header, .app-text {
+    font-family: 'Montserrat';
+}
+
+.app-header {
+  font-weight: 700;
+}
